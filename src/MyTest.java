@@ -5,6 +5,7 @@ public class MyTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hello my Library");
 		System.out.println("Hello again!");
+		System.out.println("Hello again and again!");
 	}
 
 }
